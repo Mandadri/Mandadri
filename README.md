@@ -1,3 +1,6 @@
+
+Hi there , I'm Rohit Mandadri!👋
+
 A passionate self taught software engineer | student at nri-it.
 
 🔭 I’m currently studying in undergraduation..
