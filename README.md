@@ -100,6 +100,21 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
     <details>
         <summary><b>GitHub Metrics👇🏻</b></summary>
@@ -108,6 +123,14 @@
 <img src="https://metrics.lecoq.io/ashleymavericks?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
     </details>
 </div>
+
+
+
+
+
+
+
+
 
 
 
