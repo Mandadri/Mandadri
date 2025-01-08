@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+    <p>I am a passionate JavaScript developer with a focus on building dynamic, interactive web applications. I have experience with both front-end and back-end development, leveraging modern JavaScript frameworks like React, Node.js, and Express to create seamless, scalable solutions. Continuously learning new technologies, I strive to enhance user experience and improve application performance.</p>
 </div>
 
 <div align="center">
