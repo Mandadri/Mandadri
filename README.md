@@ -124,7 +124,7 @@
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">...
-	<img src="https://count.getloli.com/get/@Emperor-Grey?theme=gelbooru-h"> <br/>
+	
 </p>
 
 <h1 align="center"> 👤The best error message is the one that never shows up 🤖</h1>
