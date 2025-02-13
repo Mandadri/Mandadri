@@ -127,5 +127,5 @@
 	<img src="https://count.getloli.com/get/@Emperor-Grey?theme=gelbooru-h"> <br/>
 </p>
 
-<h1 align="center">🙏 Kneel Before Your Emperor 🙏</h1>
+<h1 align="center"> 👤The best error message is the one that never shows up 🤖</h1>
 
