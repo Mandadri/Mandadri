@@ -122,10 +122,7 @@
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
 </p>
 
-<h3 align="center">👀 Total Profile Visits 👀</h3>
-<p align="center">...
-	
-</p>
+
 
 <h1 align="center"> 👤The best error message is the one that never shows up 🤖</h1>
 
