@@ -124,7 +124,7 @@
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">...
-	<img src="[https://count.getloli.com/get/@Emperor-Grey?theme=gelbooru-h](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRyeHRvcjQ4Y28yaTY5OXlsdnU3OXRyNGFjMXF0bnJtZGpicjdtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eLdb3yQmrpHoRmqCWR/giphy.gif)"> <br/>
+	<img src="https://count.getloli.com/get/@Emperor-Grey?theme=gelbooru-h"> <br/>
 </p>
 
 <h1 align="center">🙏 Kneel Before Your Emperor 🙏</h1>
