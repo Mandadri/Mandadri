@@ -106,6 +106,15 @@
 </div>
 
 <div align="center">
+
+
+<p align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=Architect&quoteType=random" alt="Dev Quotes" /></p>
+
+<h2 align="center">📈 Stats Summary:</h2>
+
+
+
+    
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
