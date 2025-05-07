@@ -110,7 +110,6 @@
 
 
 
-<p align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=Architect&quoteType=random" alt="Dev Quotes" /></p>
 
 
 
